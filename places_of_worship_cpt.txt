@@ -1,0 +1,417 @@
+Brampton Buddhist Mission Centre,Buddhism,Brampton,L6Y 1N2
+Chua Tu Thuyen Ni Tu - Vietnamese Buddhist Association of Canada,Buddhism,Brampton,L6Y 1M6
+Fo Guang Shan Temple,Buddhism,Mississauga,L5N 7K6
+Phap Van Vietnamese Buddhist Temple,Buddhism,Mississauga,L4Z 1W7
+Wat Lao Veluwanaram of Ontario,Buddhism,Caledon,L7K 2K1
+West End Buddhist Temple (Halton Peel Buddhist Cultural Society),Buddhism,Mississauga,L5A 2X4
+Albion HIlls Bible Church,Christianity,Caledon,L7E 3T2
+All People's Church,Christianity,Brampton,L6T 3H8
+Almanarah Presbyterian Church,Christianity,Mississauga,L5S 1Y4
+Applewood Congregation Kingdom Hall of Jehovah's Witness,Christianity,Mississauga,L4W 1M9
+Applewood Heights Gospel Hall,Christianity,Mississauga,L4W 1J5
+Applewood United Church,Christianity,Mississauga,L4Y 1R4
+Assembly Hall of Jehovah's Witnesses,Christianity,Brampton,L7G 4S4
+Augsburg Lutheran Church,Christianity,Brampton,L6Y 1T8
+Aviation Interfaith Ministry,Christianity,Mississauga,L5P 1B2
+Belfountain Village Church,Christianity,Caledon,L7K 0E6
+Believers House of Hope Church,Christianity,Brampton,L6T 4Z7
+Berean Church of God International,Christianity,Brampton,L7A 1B7
+Bethel Church of The Nazarene,Christianity,Mississauga,L4X 1W5
+Bolton United Church,Christianity,Caledon,L7E 1C7
+Bramalea Alliance Church,Christianity,Brampton,L6S 4E7
+Bramalea Baptist Church,Christianity,Brampton,L6S 1J3
+Bramalea Christian Fellowship,Christianity,Brampton,L6R 0C2
+Bramalea Church of Christ,Christianity,Brampton,L6T 3Y2
+Bramalea Church of God,Christianity,Brampton,L6T 1W5
+Bramalea Filipino-Canadian Seventh Day Adventist Church,Christianity,Brampton,L6T 4M9
+Bramalea Free Methodist Church,Christianity,Brampton,L6S 4L6
+Bramalea Gospel Assembly,Christianity,Brampton,L6T 2W1
+Brampton Chinese Baptist Church,Christianity,Brampton,L6S 5X5
+Brampton Christian Family Church (Brampton North),Christianity,Brampton,L6X 4H9
+Brampton Church of The Nazarene,Christianity,Brampton,L6V 2J1
+Brampton Evangelical Missionary Church,Christianity,Brampton,L6Y 2C7
+Brampton Evangelistic Ministry,Christianity,Caledon,L6V 1A1
+Brampton Gospel Hall,Christianity,Brampton,L6V 1V1
+Brampton Seventh Day Adventist Church,Christianity,Brampton,L6Y 4G1
+Brampton Triumphant Church of God,Christianity,Brampton,L6T 4T5
+Britannia United Church,Christianity,Mississauga,L5M 2B5
+Caledon East United Church,Christianity,Caledon,L7C 1H8
+Caledon Hills Fellowship Baptist Church,Christianity,Caledon,L7C 3L8
+Calvary Baptist Church,Christianity,Brampton,L6W 2E2
+Calvary Worship Centre,Christianity,Mississauga,L4Z 1W7
+Canadian Baptist Ministries,Christianity,Mississauga,L5N 5R4
+Canadian Coptic Centre - Church of the Virgin Mary & St. Athanasius,Christianity,Mississauga,L5V 2M4
+Canadian Coptic Orthodox Church Of The Resurrection,Christianity,Mississauga,L4Z 1X3
+Caven Presbyterian Church,Christianity,Caledon,L7E 1A2
+Cawthra Park United Church,Christianity,Mississauga,L5G 4B8
+Central Park Baptist Church,Christianity,Brampton,L6S 2C8
+Champion Life Centre,Christianity,Brampton,L6T 5L2
+Cheltenham Baptist Church,Christianity,Caledon,L7C 1N5
+Cheltenham United Church,Christianity,Caledon,L7C 1N3
+Chinmaya Vedanta Heritage Centre,Christianity,Brampton,L6P 0B1
+Christ Chosen Church of God International,Christianity,Mississauga,L4T 3Y9
+Christ Church Anglican,Christianity,Caledon,L7E 5T4
+Christ Church Brampton,Christianity,Brampton,L6X 1S2
+Christ Embassy,Christianity,Mississauga,L4Z 3L8
+Christ First United Church,Christianity,Mississauga,L5J 1Y8
+Christ For Life Ministries,Christianity,Mississauga,L5C 1V6
+Christ Healing Evangelical Church - Faith Chapel,Christianity,Mississauga,L4W 2P5
+Christ Our King Lutheran Church,Christianity,Mississauga,L5K 1R5
+Church 180,Christianity,Mississauga,L5T 2G2
+Church of God Pillar & Ground of The Truth,Christianity,Mississauga,L5L 2W3
+Church of God Sabbath-Keeping Ministries,Christianity,Brampton,L6T 4T5
+Church of God of Prophecy,Christianity,Mississauga,L4W 1P1
+Church of Jesus Christ,Christianity,Mississauga,L4X 2T7
+Church of Jesus Christ of Latter Day Saints,Christianity,Brampton,L7A 0A7
+Church of Jesus Christ of Latter Day Saints,Christianity,Mississauga,L5C 1C2
+Church of Jesus Christ of Latter Day Saints,Christianity,Brampton,L6W 2E2
+Church of Jesus Christ of Latter Day Saints,Christianity,Brampton,L6R 1A1
+Church of Saint Mark-Lutheran,Christianity,Mississauga,L5G 2E5
+Church of St Antony and St Marcorius,Christianity,Mississauga,L5N 2V6
+Church of St Luke Anglican Church,Christianity,Mississauga,L5E 2P7
+Church of St Mina and St Kyrellos Coptic,Christianity,Mississauga,L4X 1L5
+Church of The Holy Spirit of Peace / Peace Lutheran Church,Christianity,Mississauga,L4W 3B2
+Church of the Holy Family,Christianity,Brampton,L67 0A7
+Church of the Seven Altars,Christianity,Mississauga,L5N 1A5
+Churchill Baptist Church,Christianity,Caledon,L7E 3P6
+City Centre Baptist Church,Christianity,Mississauga,L5V 2W3
+Clarkson Community Church,Christianity,Mississauga,L5J 1J7
+Clarkson Road Presbyterian Church,Christianity,Mississauga,L5J 2W5
+Claude Presbyterian Church,Christianity,Caledon,L7C 2E3
+Cooksville United Church,Christianity,Mississauga,L5B 1P7
+Coptic Orthodox Church of Archangel Michael St Tekla,Christianity,Brampton,L6Z 4P8
+Cristo Rei Roman Catholic Church,Christianity,Mississauga,L5W 3G5
+Cross Point Christian Reformed Church,Christianity,Brampton,L6Y 0J3
+Cutting Edge Word Ministries International,Christianity,Mississauga,L5T 1X3
+Dixie Baptist Church,Christianity,Mississauga,L4W 5K3
+Dixie Presbyterian Church,Christianity,Mississauga,L5A 2X4
+Dominion in Christ International Ministries,Christianity,Mississauga,L4W 4N5
+Eden United Church,Christianity,Mississauga,L5N 5Z9
+Emmanuel Church,Christianity,Mississauga,L5N 6M1
+Emmanuel United Church,Christianity,Brampton,L6T 1V9
+Erin Mills United Church,Christianity,Mississauga,L5L 4X9
+Erindale Bible Chapel,Christianity,Mississauga,L5C 1E7
+Erindale Presbyterian Church,Christianity,Mississauga,L5C 1E5
+Erindale United Church,Christianity,Mississauga,L5C 1E9
+Etobicoke Church of God (Seventh Day),Christianity,Brampton,L6T 5C6
+Exodus Deliverance Temple,Christianity,Mississauga,L4W 1C8
+Faith Alive Christian Centre,Christianity,Mississauga,L4V 1L2
+Faith Community Wesleyan Church,Christianity,Caledon,L7K 1X1
+Faith Gospel Tabernacle Ministries,Christianity,Brampton,L7A 0G2
+Family Life Worship Centre,Christianity,Brampton,L6W 1K5
+First Baptist Church,Christianity,Brampton,L6W 1Y2
+Free Methodist Church In Canada,Christianity,Mississauga,L4Z 1S2
+Friends of Israel Gospel,Christianity,Brampton,L6W 3P1
+Gift of God Church,Christianity,Mississauga,L4Z 1P4
+Glenbrook Presbyterian Church,Christianity,Mississauga,L5L 2B3
+Good News Assembly of God,Christianity,Mississauga,L5J 2M4
+Gospel Assembly Church,Christianity,Mississauga,L5E 1W3
+Grace & Truth Message Tabernacle Inc.,Christianity,Mississauga,L59 6P9
+Grace Canadian Reformed Church,Christianity,Brampton,L7A 0G2
+Grace Mount Zion Apostolic Church,Christianity,Mississauga,L4Z 1R9
+Grace New Covenant Pentecostal Church,Christianity,Mississauga,L4W 3R7
+Grace New Covenant Pentecostal Church,Christianity,Mississauga,L4W 3W4
+Grace United Church,Christianity,Brampton,L6V 1N9
+Graceway Bible Society,Christianity,Mississauga,L5S 1T7
+Greek Orthodox Church of Prophet Elias,Christianity,Mississauga,L4W 1V2
+Greek Orthodox Church of Three Hierarchs and St George,Christianity,Mississauga,L5M 1R2
+Guardian Angels Parish,Christianity,Brampton,L7A 0T4
+Gujarati Church of Canada,Christianity,Brampton,L6S 4L6
+Harvest Bible Chapel Mississauga,Christianity,Mississauga,L5N 0C4
+Harvest Time United Church of Jesus Christ,Christianity,Brampton,L6T 1X6
+Heart Lake Baptist Church,Christianity,Brampton,L6Z 0C5
+Heart Lake Community Presbyterian Church,Christianity,Brampton,L6Z 3X3
+Heart Lake Kingdom Hall of Jehovah's Witnesses,Christianity,Brampton,L6Z 2S9
+Heart Lake United Church,Christianity,Brampton,L6Z 4S3
+"Heartland, A Church Connected",Christianity,Mississauga,L5T 2Y3
+His Prayer House International Church,Christianity,Brampton,L6S 4B7
+Holy Family Church,Christianity,Caledon,L7E 1P7
+Hope Centre (Ebenezer Chapel),Christianity,Brampton,L6P 2P7
+Hope Community Church of God of Prophesy,Christianity,Mississauga,L5N 3L9
+Hosanna Evangelical Free Church,Christianity,Mississauga,L5L 5M6
+House of Praise,Christianity,Mississauga,L4X 3A2
+Huttonville United Church,Christianity,Brampton,L6Y 0E9
+Iglesia ni Cristo,Christianity,Mississauga,L5L 3Y6
+Immanuel Christian Reformed Church,Christianity,Caledon,L7C 3K7
+Indonesian Reformed Evangelical Church Toronto,Christianity,Mississauga,L5L 5M6
+Inglewood United Church,Christianity,Caledon,L7C 1M9
+International Fellowship of Canada Church,Christianity,Brampton,L7A 1B8
+Jehovah Jireh Christian Ministries,Christianity,Caledon,L7K 1W9
+Jehovah's Witnesses Kingdom Hall,Christianity,Brampton,L6Y 2C7
+Jesus is Lord Church,Christianity,Mississauga,L4Z 2C1
+Kenmuir Baptist Church,Christianity,Mississauga,L5G 3Z1
+Kennedy Road Church,Christianity,Brampton,L6V 1X9
+Kingdom Covenant Ministries,Christianity,Mississauga,L4Y 4A2
+Kingdom Glory Ministries,Christianity,Mississauga,L5H 2A3
+Kingdom Hall of Jehovah's Witnesses,Christianity,Mississauga,L5M 5T7
+Kingdom Hall of Jehovah's Witnesses,Christianity,Brampton,L6R 3M1
+Kingdom Hall of Jehovah's Witnesses,Christianity,Mississauga,L5M 5H8
+Kingdom Hall of Jehovah's Witnesses,Christianity,Mississauga,L5H 4G4
+Kingdom House Christian Centre,Christianity,Brampton,L6X 2M1
+Kingdom Life Ministries,Christianity,Mississauga,L5S 1P7
+Kingdom Life Ministries,Christianity,Mississauga,L5S 1P7
+Knox United Church,Christianity,Caledon,L7K 0V8
+Lampstand Bolton Christian Church,Christianity,Caledon,L7E 1A2
+Liberty Hall Deliverance Centre Church of God,Christianity,Brampton,L6T 1B5
+Life of Faith Gospel Ministries,Christianity,Brampton,L6T 4P1
+Lighthouse Tabernacle Church,Christianity,Mississauga,L5L 5X9
+Lithuanian Martyrs' Church,Christianity,Mississauga,L5C 1T3
+Living Church of God,Christianity,Mississauga,L5N 5Z7
+Living Word Community Church,Christianity,Brampton,L6T 4Z5
+Logos Baptist Church (Mississauga),Christianity,Mississauga,L5N 5Z6
+Logos Christian Family Church,Christianity,Mississauga,L4Y 2B3
+Lorne Park Baptist Church,Christianity,Mississauga,L5H 1S7
+Malton Baptist Church,Christianity,Mississauga,L4T 1T5
+Malton Bible Chapel,Christianity,Mississauga,L4T 1R6
+Mar Elias Eastern Orthodox Church of Ontario,Christianity,Mississauga,L5A 2X4
+Maranatha Spanish Seventh Day Adventist Church,Christianity,Mississauga,L5E 1W3
+Masonic Lodge,Christianity,Mississauga,L5M 1Y4
+Mayfield United Church,Christianity,Caledon,L7C 2L7
+Meadowvale Bible Baptist Church,Christianity,Mississauga,L5N 2R2
+Meadowvale Community Christian Reformed Church,Christianity,Mississauga,L5N 2A7
+Meadowvale Korean United Church,Christianity,Mississauga,L5W 1A1
+Meadowvale Seventh-Day Adventist Church,Christianity,Mississauga,L5N 3J5
+Melville White Church (Disbanded),Christianity,Caledon,L0N 1C0
+Merciful Redeemer Parish,Christianity,Mississauga,L5M 5W2
+Middle East Baptist Church,Christianity,Mississauga,L5A 2N3
+Missionary Sisters of St Charles Borromeo – Scalabrinians,Christianity,Mississauga,L5G 3H4
+Mississauga Carmel Mandarin Alliance Church,Christianity,Mississauga,L5V 3E3
+Mississauga Chinese Alliance Church,Christianity,Mississauga,L4Z 1T1
+Mississauga Chinese Baptist Church,Christianity,Mississauga,L4W 1X1
+Mississauga Chinese Christian Church,Christianity,Mississauga,L4Z 1X3
+Mississauga Chinese Presbyterian Church,Christianity,Mississauga,L5V 2C7
+Mississauga Chinese United Church,Christianity,Mississauga,L4W 1J5
+Mississauga Church of God,Christianity,Mississauga,L5L 5X8
+Mississauga City Baptist Church,Christianity,Mississauga,L5A 2X7
+Mississauga Family Baptist Church,Christianity,Mississauga,L5N 3M1
+Mississauga Gospel Assembly Church,Christianity,Mississauga,L5E 1W3
+Mississauga International Baptist Church,Christianity,Mississauga,L5N 7B9
+Mississauga Masonic Temple,Christianity,Mississauga,L5H 1E1
+Mississauga Seventh-Day Adventist Church,Christianity,Mississauga,L5M 4L9
+Mississauga Southern Chinese Baptist Church,Christianity,Mississauga,L4W 5G6
+Mississauga Victory Church,Christianity,Mississauga,L5N 7X9
+Mount Calvary Apostolic Church,Christianity,Mississauga,L5M 1N2
+Mount Zion Apostolic Church of Canada,Christianity,Mississauga,L4V 1X6
+New Apostolic Church Canada,Christianity,Brampton,L6T 4E9
+New Birth Tabernacle Church,Christianity,Brampton,L6T 4J4
+New Hope Reformed Church,Christianity,Mississauga,L5C 1Y2
+New Life Bible Chapel,Christianity,Mississauga,L5N 2W7
+New Life Community Church,Christianity,Brampton,L6P 0N5
+New Life Covenant Centre,Christianity,Mississauga,L5S 1S9
+New Life Fellowship Church of God,Christianity,Mississauga,L5C 4P8
+No Limits Ministries,Christianity,Brampton,L6T 5K1
+Nobleton Kingdom Hall of Jehovah's Witnesses,Christianity,Caledon,L7E 1Y1
+North Bramalea Presbyterian Church,Christianity,Brampton,L6S 5R8
+North Bramalea United Church,Christianity,Brampton,L6S 4L6
+North Park Kingdom Hall of Jehovah's Witnesses,Christianity,Brampton,L6S 4G2
+North Park Worship Centre,Christianity,Brampton,L6S 6A9
+Our Lady of Fatima Church,Christianity,Brampton,L6Y 4C8
+Our Lady of The Airways Catholic Church,Christianity,Mississauga,L4T 2X5
+Palgrave United Church,Christianity,Caledon,L7E 0L9
+Park Royal Bible Church,Christianity,Mississauga,L5J 3T7
+Paroisse de la Sainte-Famille,Christianity,Mississauga,L5N 7K8
+Peel International Baptist Church,Christianity,Brampton,L6S 5N6
+Peel Pentecostal Tabernacle,Christianity,Brampton,L6R 0N6
+Portico Community Church,Christianity,Mississauga,L5M 2M5
+Praise Bible Church,Christianity,Brampton,L6T 0C2
+Praise Cathedral Worship Centre,Christianity,Mississauga,L5N 5M4
+Praise Tabernacle Church,Christianity,Mississauga,L4W 5A1
+Promise of Life Church,Christianity,Mississauga,L5T 2R8
+Redeemer Christ Assembly,Christianity,Brampton,L6T 5G7
+Redeemer Lutheran Church,Christianity,Brampton,L6T 2E2
+Renew Church,Christianity,Mississauga,L5N 3B2
+Restoration Ministries,Christianity,Mississauga,L4Y 3X4
+Revival Waves of Christ,Christianity,Brampton,L6T 4Y7
+Risen Christ Lutheran Church,Christianity,Mississauga,L4W 1M4
+River of Life Restoration Ministries,Christianity,Brampton,L6T 4W8
+Roman Catholic Church of Croatian Martyrs,Christianity,Mississauga,L5M 7C6
+Ruth Seventh-Day Adventist Church,Christianity,Brampton,L6R 0A6
+SS Salvador Do Mundo Church,Christianity,Mississauga,L4Y 1L5
+Salem United Church (Disbanded),Christianity,Caledon,L7C 2Z4
+Salvation Army Brampton Community Church,Christianity,Brampton,L6S 4B7
+Salvation Army Erin Mills Corps,Christianity,Mississauga,L5L 1V3
+Sandhill United Church,Christianity,Caledon,L7C 2T7
+Saviour of The World Chinese Catholic Church,Christianity,Mississauga,L5R 3K3
+Seventh Day Church of God International Ministries for All Nations,Christianity,Brampton,L6S 5N5
+Sheridan Park Family Church,Christianity,Mississauga,L5K 1W1
+Sheridan United Church,Christianity,Mississauga,L5J 2B3
+Shiloh Apostolic Church Inc,Christianity,Caledon,L7C 0S1
+Spirit of Pentecost Church,Christianity,Mississauga,L5N 2L7
+St Alphonsa Syro-Malabar Catholic Cathedral,Christianity,Mississauga,L5N 2P1
+St Andrew's Presbyterian Church Streetsville,Christianity,Mississauga,L5M 1L9
+St Andrew's Stone Church,Christianity,Caledon,L7C 2V5
+St Andrews Memorial Presbyterian Church,Christianity,Mississauga,L5G 2T5
+St Andrews Presbyterian Church,Christianity,Brampton,L6V 1G3
+St Anne's Roman Catholic Church,Christianity,Brampton,L6V 1M4
+St Anthony of Padua Catholic Church,Christianity,Brampton,L6S 3L5
+St Apostle Andrew Romanian Orthodox Church,Christianity,Mississauga,L4W 1M4
+St Bartholomew's United Church,Christianity,Brampton,L6W 2T8
+St Brides Anglican Church,Christianity,Mississauga,L5J 2W9
+St Catherine of Siena Catholic Church,Christianity,Mississauga,L5B 1N1
+St Christopher's Church,Christianity,Mississauga,L5J 2W1
+St Cornelius Mission,Christianity,Caledon,L7C 2H9
+St Dimitar Bulgarian Eastern Orthodox Church,Christianity,Brampton,L6Y 5J9
+St Dominic's Roman Catholic Church,Christianity,Mississauga,L5G 2A8
+St Elias Ukrainian Catholic Church,Christianity,Brampton,L7A 0A1
+St Elizabeth's Anglican Church,Christianity,Mississauga,L5V 2W3
+St Eugene de Mazenod Parish,Christianity,Brampton,L6Y 0A9
+St Francis Xavier Roman Catholic Church,Christianity,Mississauga,L5V 2N6
+St Francis of Assisi Anglican Church,Christianity,Mississauga,L5N 2W7
+St Francis of Assisi Parish,Christianity,Mississauga,L5K 1K8
+St George Syriac Orthodox Church,Christianity,Brampton,L6T 0C2
+St Gregorios Indian Orthodox Church,Christianity,Mississauga,L5E 2A9
+St Gregorios Orthodox Church of Toronto,Christianity,Mississauga,L4V 1X6
+St Hilary's Anglican Church,Christianity,Mississauga,L5A 2E6
+St Hugh and St Edmund Anglican Church,Christianity,Mississauga,L4T 2V1
+St Ignatius Loyola Church,Christianity,Mississauga,L5L 3T6
+St Ilija Macedonian Orthodox Church,Christianity,Mississauga,L5M 2Y5
+St James Anglican Church,Christianity,Caledon,L7C 1H8
+St James The Apostle Anglican Church,Christianity,Brampton,L6W 2P1
+St Jerome's Parish,Christianity,Brampton,L6Y 5G4
+St John Fisher Church,Christianity,Brampton,L6T 1V6
+St John of The Cross Carmelite Church,Christianity,Mississauga,L5N 2E1
+St John the Baptist (Dixie) Anglican Church,Christianity,Mississauga,L4Y 2B5
+St John the Evangelist Parish,Christianity,Caledon,L7C 3E6
+St John's Church,Christianity,Caledon,L7K 0G7
+St Joseph Roman Catholic Church,Christianity,Mississauga,L5M 2J5
+St Joseph Syriac Catholic Church,Christianity,Mississauga,L5E 2C5
+St Joseph of Nazareth Anglican Church,Christianity,Brampton,L6T 1V6
+St Josephine Bakhita Church,Christianity,Mississauga,L5M 0N7
+St Jude's Anglican Church,Christianity,Brampton,L6S 3L6
+St Leonard's Church,Christianity,Brampton,L6Z 3X8
+St Marguerite D'Youville Parish,Christianity,Brampton,L6R 3A4
+St Mark's Presbyterian Church,Christianity,Mississauga,L4T 3W6
+St Martin of Tours Parish,Christianity,Mississauga,L5C 1M8
+St Mary Star of the Sea Roman Catholic Church,Christianity,Mississauga,L5H 2G1
+St Mary's Antiochian Orthodox Church,Christianity,Mississauga,L4Z 1W7
+St Mary's Catholic Church,Christianity,Brampton,L6W 2C6
+St Mary's Syriac Orthodox Church of Canada,Christianity,Mississauga,L5G 4B6
+St Mary's Ukrainian Catholic Church,Christianity,Mississauga,L5A 2Y4
+St Maximilian Kolbe Polish Roman Catholic Church,Christianity,Mississauga,L4Z 1V8
+St Patrick's Catholic Church,Christianity,Brampton,L6T 3Z8
+St Patrick's Church,Christianity,Mississauga,L4Y 2J6
+St Paul's Presbyterian Church,Christianity,Brampton,L6T 1X5
+St Paul's United Church,Christianity,Brampton,L6W 2C4
+St Peter's Anglican Church Erindale,Christianity,Mississauga,L5L 0B7
+"St Peter's Church, St. Josephine Bakhita",Christianity,Mississauga,L5N 0C1
+St Peter's Syrian Orthodox Church of Canada,Christianity,Mississauga,L4W 5G6
+St Sava Serbian Orthodox Church,Christianity,Mississauga,L4Y 2A5
+St Stephen's-on-the-Hill United Church,Christianity,Mississauga,L5H 1R5
+St Thomas A Becket Anglican Church,Christianity,Mississauga,L5L 2B3
+Streetsville Baptist Church,Christianity,Mississauga,L5M 1W1
+Streetsville United Church,Christianity,Mississauga,L5M 1L8
+Sts Cyril and Methodius Roman Catholic Parish,Christianity,Mississauga,L4Z 3J3
+Sts Martha & Mary Church,Christianity,Mississauga,L4X 2S5
+Sts Peter & Paul Roman Catholic Church,Christianity,Mississauga,L4Z 1T6
+The Church in Mississauga,Christianity,Mississauga,L5M 1P8
+The Church of Pentecost Peel District,Christianity,Mississauga,L5T 2B6
+The City Church of Mississauga,Christianity,Mississauga,L5N 5V4
+The Holy Remnant Apostolic Church,Christianity,Mississauga,L4W 2R4
+The Light Korean Presbyterian Church,Christianity,Mississauga,L4V 1V3
+The Lord's Cedar Church Brampton,Christianity,Brampton,L7A 1C2
+The Mill Christian Fellowship,Christianity,Mississauga,L5L 1R4
+The New Covenant Church of Jesus Christ Apostolic,Christianity,Brampton,L6T 4M9
+The Open Door Christian Ministry Outreach,Christianity,Mississauga,L5B 2C9
+The Salvation Army Cornerstone Community Church,Christianity,Mississauga,L5N 4W8
+The Salvation Army Mississauga Temple Community Church,Christianity,Mississauga,L5A 2X4
+Torbram Pentecostal Church,Christianity,Brampton,L6T 5C9
+Toronto Eun-Hae Methodist Church,Christianity,Mississauga,L5A 2X4
+Toronto International Family Church,Christianity,Mississauga,L5V 2W3
+Toronto West Christian Assembly,Christianity,Brampton,L6T 5C6
+Trillium (Mono Mills) United Church,Christianity,Caledon,L7K 0A4
+Trinity Anglican Church,Christianity,Caledon,L7C 0T6
+Trinity Church Streetsville,Christianity,Mississauga,L5M 1K5
+Trinity St. Paul's Port Credit Anglican Church,Christianity,Mississauga,L5G 2T5
+Trinity United Church Malton,Christianity,Mississauga,L4T 2G7
+True VIne Ministries,Christianity,Brampton,L6T 4W9
+Unitarian Congregation in Mississauga,Christianity,Mississauga,L5G 2R9
+Unity Church of Mississauga,Christianity,Mississauga,L5L 5M6
+Vietnamese Evangelical Church,Christianity,Mississauga,L5E 1X6
+West Brampton Community Church,Christianity,Brampton,L6W 2B3
+West Toronto Christian Community Church,Christianity,Mississauga,L5C 4P3
+Westedge Community Church,Christianity,Mississauga,L5H 1G3
+Westminster United Church,Christianity,Mississauga,L4W 1J5
+Westside Presbyterian Church in Canada,Christianity,Mississauga,L5B 4L6
+White Oak Presbyterian Church,Christianity,Mississauga,L5N 2W7
+Word of God Assemblies International,Christianity,Brampton,L7A 1A5
+Zion Church of God in Christ,Christianity,Mississauga,L5L 5M5
+Arulmigu Bhuvaneswari Amman Temple,Hinduism,Brampton,L6T 4N7 
+Arya Samaj Mississauga Hindu Temple,Hinduism,Mississauga,L4Z 1P3
+Bhavani Shankar Mandir & Cultural Centre,Hinduism,Brampton,L6P 3R6
+Gauri Shankar Mandir Brampton,Hinduism,Brampton,L6Y 0B7
+Guruvayurappan Temple of Brampton,Hinduism,Brampton,L6R 3T4
+Hindu Heritage Centre,Hinduism,Mississauga,L5N 1A7
+Hindu Sabha Temple Brampton,Hinduism,Brampton,L6S 5Y8
+ISKCON Brampton,Hinduism,Brampton,L6T 4J4
+Jeya Durga Thevasthanam,Hinduism,Mississauga,L5S 1J6
+Maa Chintpurni Mandir,Hinduism,Brampton,L6Y 0H2
+Pashupatinath Mandir Temple,Hinduism,Brampton,L6T 5A2
+Peel Arya Samaj Vedic Cultural Centre,Hinduism,Brampton,L6T 4H9
+Ram Mandir Mississauga,Hinduism,Mississauga,L5S 1Y9
+Rameshwar Mandir & Cultural Sabha,Hinduism,Brampton,L6T 4K8
+Sai Dham Canada,Hinduism,Mississauga,L4T 2T6
+Satchidananda Sadguru Shirdi Sainath Maharaj Mandir,Hinduism,Mississauga,L5T 2B9
+Satya Jyoti Cultural Sabha,Hinduism,Mississauga,L5T 2M4
+Shiva Ganesh Mandir,Hinduism,Brampton,L7A 1C2
+Shree Jagannath Temple,Hinduism,Brampton,L6S 5M4
+Shri Baba Balak Nath Temple,Hinduism,Brampton,L7A 0H7
+Shri Hanuman Mandir,Hinduism,Brampton,L6T 5G7
+Shri Krishna Sudama Mandir & Cultural Shaba,Hinduism,Brampton,L7A 1A6
+Shri Vitthal Hindu Mandir,Hinduism,Mississauga,L4W 4N5
+Sri Ganesha Durga Hindu Temple of Mississauga,Hinduism,Mississauga,L6T 4H7
+Sri Katpaga Vinayagar Temple,Hinduism,Brampton,L6T 4V4
+Sri Muthumaari Ambal Temple,Hinduism,Mississauga,L4W 1C8
+Sri Siva Satyanarayana Swami Temple,Hinduism,Mississauga,L4W 1R1
+Sri Sivasubramaniya Hindu Temple,Hinduism,Brampton,L7A 1B7
+Toronto Kalibari,Hinduism,Mississauga,L4V 1X6
+Yogi Divine Society Canada,Hinduism,Mississauga,L4V 1Y3
+Aga Khan Council For Ontario,Islam,Brampton,L6S 5X4
+Al Fajr Islamic Learning & Cultural Centre - Main Street Musallah,Islam,Brampton,L6W 2E2
+Al Huda Institute Canda,Islam,Mississauga,L4Z 1N9
+Al Zahra Islamic Centre,Islam,Mississauga,L4W 1X6
+Anatolia Islamic Centre,Islam,Mississauga,L4W 1G5
+Anjuman-E-Anwarul Islam of Malton,Islam,Mississauga,L4T 2G7
+Anjuman-e-Fakhri Jamaat,Islam,Mississauga,L5N 2W9
+Bab-Ul-Hawaij Islamic Centre,Islam,Mississauga,L5T 1C1
+Baitul Hamd Mosque,Islam,Mississauga,L4W 1Y2
+Brampton Islamic Association,Islam,Brampton,L7A 1C4
+Dar Al-Tawheed Islamic Center,Islam,Mississauga,L4Z 1P1
+ISNA Canada,Islam,Mississauga,L5J 2M4
+Islamic Forum of Canada,Islam,Brampton,L6T 4V4
+Islamic Society of Peel - Makki Masjid Brampton,Islam,Brampton,L6T 4M9
+Jame Masjid - Islamic Propagation Centre of Ontario,Islam,Mississauga,L4Z 1R9
+Jamia Islamia Canada,Islam,Mississauga,L5A 3V3
+Jamia Riyadhul Jannah,Islam,Mississauga,L5N 2L8
+Jamiat-Ul-Ansar of Brampton,Islam,Brampton,L6R 2Z4
+Malton Islamic Centre,Islam,Mississauga,L4V 1X6
+Masjid Adam Islamic Centre,Islam,Mississauga,L4X 1S7
+Masjid Al-Farooq,Islam,Mississauga,L5V 1R6
+Masjid Ibrahim - Peel Islamic Cultural Centre,Islam,Brampton,L6Y 4E6
+Masjid Mubarak Mosque,Islam,Brampton,L6Z 4B8
+Masjid Rahmatul-lil-Alameen,Islam,Mississauga,L5A 1A4
+Masumeen Islamic Centre,Islam,Brampton,L6T 0A1
+Meadowvale Islamic Centre,Islam,Mississauga,L5N 3W4
+Mississauga Muslim Community Center,Islam,Mississauga,L4Y 2A1
+Mount Pleasant Islamic Centre,Islam,Brampton,L7A 0W7
+Qasimul Uloom Islamic Centre Canada,Islam,Mississauga,L5N 1A1
+Sayeda Khadija Centre,Islam,Mississauga,L5S 1Z1
+West End Islamic Centre,Islam,Mississauga,L5L 5R3 
+Chabad Jewish Discovery Centre,Judaism,Mississauga,L5C 1E4
+Har Tikvah Congregation of Brampton,Judaism,Brampton,L6X 2G3
+Solel Congregation of Mississauga,Judaism,Mississauga,L5L 2M6
+(Proposed) Sikh Temple,Sikhism,Brampton,L6R 2P7
+Gurdwara Baba Nanak,Sikhism,Brampton,L6W 3K6
+Gurdwara Dasmesh Darbar,Sikhism,Brampton,L6P 2K8
+Gurdwara Nanaksar Brampton,Sikhism,Brampton,L6Y 4V7
+Gurdwara Sikh Sangad Brampton,Sikhism,Brampton,L7A 1A7
+Gurdwara Tapoban Sahib,Sikhism,Brampton,L6T 3Y7
+Gurtfateh Sewa Centre,Sikhism,Mississauga,L5S 1T8
+Guru Nanak Mission Centre,Sikhism,Brampton,L6R 2H7
+Nanaksar Thath Isher Darbar,Sikhism,Brampton,L6P 0A7
+Ontario Khalsa Darbaar,Sikhism,Mississauga,L5S 1B7
+Sant Nirankari Mission,Sikhism,Brampton,L7A 0H2
+Shromani Sikh Sangat Toronto,Sikhism,Mississauga,L5L 1T1
+Sikh Heritage Centre,Sikhism,Brampton,L6R 0C7
+Sri Guru Nanak Sikh Centre Brampton,Sikhism,Brampton,L6T 2H8
+Sri Guru Singh Sabha Malton,Sikhism,Mississauga,L4T 2H3
+Su Gurduara Jot Parkash Sahiv Toronto,Sikhism,Brampton,L6S 5Z6
